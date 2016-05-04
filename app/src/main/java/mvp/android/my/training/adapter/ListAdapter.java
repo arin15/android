@@ -88,4 +88,5 @@ public class ListAdapter extends BaseAdapter {
         alert.setIcon(android.R.drawable.ic_search_category_default);
         alert.show();
     }
+
 }
